@@ -1,0 +1,53 @@
+============================= ASSIGNMENT REPORT ============================
+Assignment name is: Wildfire
+My name is: Ethan Iannicelli
+
+	[USE PLAIN TEXT]
+	[INSERT ANSWERS AFTER EACH QUESTION AND ADD MORE LINES AS NEEDED.]
+	[MAKE YOUR ANSWERS SHORT AND TO THE POINT. BULLET POINTS ARE GOOD.]
+
+===== In what cases does the program run correctly?  =================
+program runs correctly with all flags and properly handles error outputs for the command line prompts.
+
+===== In what cases does the program fail and how?  ==================
+to the best of my knowledge, the program does not fail
+
+===== If applicable, what were the extra credit results?  ============
+i successfully implemented the lightning and dampness options
+to my knowledge, they both run correctly in all cases, both when the flag is introduced and when it is absent
+===== If applicable, describe how to run the extra credit.  ==========
+-lN for lightning - shows the chance of lightning striking a random cell. if the cell is a living tree, that tree starts to burn.
+-l50 means each cycle there is a 50% cahnce lightning will strike a random cell
+-DN for dampness - shows how much % less the catch probability will be for a tree to be on fire normally. this does not affect lightning cases
+-D10 with -c30 will result in a 10% reduction of the catch probability, so the catch prob goes from 30% to 27%. 
+
+===== How much time did I spend on the project?  =====================
+i probably spent around 10-15 total hours on the project, but it was split over many days
+and into many sessions
+
+===== What did I learn?  =============================================
+i learned about using srandom, random, and usleep, how to use the display using cursor control,
+how to implement a 8-way connected matrix and change it's state, and how to properly use header files, 
+more about defining variables and global variables, and how to process command line arguments
+
+===== What was easy in this assignment?  =============================
+overall, it was pretty easy from a logic standpoint. the hardest part was writing a program from scratch, but
+i would say that i had all the tools i could possibly need to complete it using previous assignments and the 
+demo code included.
+
+===== What gave me problems or troubles?  ============================
+i had a minor hiccup when it came to understanding how the prob_catch should be used, but it was small. 
+overall, there were no problems that stuck out to me, if i had an issue it was small and fixed quickly
+
+===== What would be the most important improvement for the project?  =
+slightly clearer directions, but it really wasnt a big deal. some things were confusing, but with some brain 
+power it wasnt too much to handle
+
+===== What else would I have liked to do for this assignment?  =======
+personally, i wish i could have condenced my code if possible, but i realized this after i had written most of
+it, and it worked, so i didnt have the motivation to go back and fix it. it would also be interesting to do
+this in a gui, or add something to put the fires out, such as firemen or whether
+
+===========================================================================
+I also feel that it is worth mentioning that my formatting for the output is not the same as try's but all of the information is correct
+===========================================================================

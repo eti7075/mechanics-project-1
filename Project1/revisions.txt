@@ -1,0 +1,59 @@
+commit 6e37a1985c21da0d69e54332cd4aa9b8d09e4ae0
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Mar 9 13:34:37 2021 -0500
+
+    stopped print option from printing after fire ended
+
+commit 52a1b1cc2ed1bdfb12477b01ea2c24d9f925e977
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Mar 9 13:06:38 2021 -0500
+
+    finished the report questions and implemented the extra credit
+
+commit dec6cf0e1ddde2723c554ae1a085add57eade401
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Mon Mar 8 22:54:15 2021 -0500
+
+    fixed the trees not catching fire mid simulation correctly
+
+commit 8053bb240e2965d3f96386eea400e2b4910e5ce9
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Mon Mar 8 10:29:16 2021 -0500
+
+    ficed the display output
+
+commit 27720fdadd360eca41e8554f2e476984e1153fa3
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Sun Mar 7 18:15:22 2021 -0500
+
+    implmented display and fixed numerous errors
+
+commit 53be0e4538abd536aa256167e9c84123e76ce669
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Thu Mar 4 14:15:13 2021 -0500
+
+    completed spread function and fiex counting neighbors function
+
+commit 2ddf38b22068cc1e8ccd9ec76be748c38ee35fd5
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Wed Mar 3 22:57:36 2021 -0500
+
+    completed neighbors counting function
+
+commit 173d0b7f8d5158aeaa7b7ca70c8b1128368f8238
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Mar 2 18:07:02 2021 -0500
+
+    added the start logic that intitiates the forest
+
+commit ff7c1fbaaab8b9bcacade0769fe1591d19ea2ebc
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Sun Feb 28 14:52:43 2021 -0500
+
+    revivision 2, worked on cmd line args and -p option logic
+
+commit b9757d3d4468d04993fa2e9564ee3014ec3b2980
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Sun Feb 28 12:56:03 2021 -0500
+
+    first commit to git repo after init, outlines the program, no logic
